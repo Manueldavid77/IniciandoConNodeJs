@@ -1,0 +1,16 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "El primer proyecto",
+  "main": "index.js"
+
+  "scripts": {
+    "saludar": "Hola Mundo"
+  }
+  "keywords": [
+    "holamundo",
+    "firstproject"
+  ]
+  "author": "Manuel"
+
+}
